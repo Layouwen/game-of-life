@@ -1,19 +1,11 @@
-# gameoflife
+# Game-Of-Life
 
-## Project setup
-```
-yarn install
-```
+English / [中文](./README-CN.md)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+> This is an application that allows you to plan your life and complete a small achievement.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Contact Me
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+QQ：794234293   
+Wechat：gdgzyw   
+Email：layouwen@gmail.com   
