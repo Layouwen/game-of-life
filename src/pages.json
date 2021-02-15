@@ -33,28 +33,31 @@
   ],
   "tabBar": {
     "color": "#7A7E83",
-    "selectedColor": "#3cc51f",
+    "selectedColor": "#00a2d8",
     "borderStyle": "black",
-    "backgroundColor": "#ffffff",
-    "height": "50px",
-    "fontSize": "10px",
-    "iconWidth": "24px",
-    "spacing": "3px",
     "list": [
       {
         "pagePath": "pages/course/course",
+        "iconPath": "static/tabIcons/course.png",
+        "selectedIconPath": "static/tabIcons/course.png",
         "text": "人生"
       },
       {
         "pagePath": "pages/addcourse/addcourse",
+        "iconPath": "static/tabIcons/add.png",
+        "selectedIconPath": "static/tabIcons/add.png",
         "text": "添加"
       },
       {
         "pagePath": "pages/community/community",
+        "iconPath": "static/tabIcons/community.png",
+        "selectedIconPath": "static/tabIcons/community.png",
         "text": "社区"
       },
       {
         "pagePath": "pages/mine/mine",
+        "iconPath": "static/tabIcons/mine.png",
+        "selectedIconPath": "static/tabIcons/mine.png",
         "text": "我的"
       }
     ]
