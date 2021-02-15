@@ -1674,6 +1674,13 @@
   dependencies:
     source-map "^0.6.1"
 
+"@types/uni-app@^1.4.3":
+  version "1.4.3"
+  resolved "https://registry.npm.taobao.org/@types/uni-app/download/@types/uni-app-1.4.3.tgz#251c012bd2408b69bf501fe0dc8f76adb3b0576c"
+  integrity sha1-JRwBK9JAi2m/UB/g3I92rbOwV2w=
+  dependencies:
+    vue "^2.6.8"
+
 "@types/webpack-dev-server@^3.11.0":
   version "3.11.1"
   resolved "https://registry.npm.taobao.org/@types/webpack-dev-server/download/@types/webpack-dev-server-3.11.1.tgz#f8f4dac1da226d530bd15a1d5dc34b23ba766ccb"
@@ -10584,7 +10591,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.6.11:
+vue@^2.6.11, vue@^2.6.8:
   version "2.6.12"
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.12.tgz?cache=0&sync_timestamp=1609359872993&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue%2Fdownload%2Fvue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha1-9evU+mvShpQD4pqJau1JBEVskSM=
